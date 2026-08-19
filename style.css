@@ -347,7 +347,7 @@ code {
 .researcher-card { padding:34px; border-radius:var(--radius); background:var(--bg-alt); border:1px solid var(--line); }
 .researcher-initials { width:72px; height:72px; display:flex; align-items:center; justify-content:center; margin-bottom:22px; border-radius:50%; color:#fff; background:var(--accent); font-size:1.35rem; font-weight:800; }
 .researcher-card h3 { font-size:1.3rem; }
-.researcher-card p { font-size:.9rem; }
+.researcher-card p { font-size:.9rem; } 
 
 @media (max-width: 900px) {
   .cards {
